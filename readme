@@ -1,0 +1,10 @@
+React.js with the Google Maps JavaScript API and Tailwind CSS for a mobile-first UI.
+
+1. The Architecture
+Frontend: React.js
+
+Map Engine: Google Maps JS API (specifically the TrafficLayer)
+
+Data Feed: Google Distance Matrix (for travel times to Chitungwiza, Ruwa, etc.)
+
+Styling: Tailwind CSS (for a clean, modern look)
